@@ -4,7 +4,7 @@ Open-source video collaboration tool designed for small remote teams who value b
 
 ## 📚 Documentation
 
-See the [Product Requirements Document](docs/PRD.md) for full specifications.
+See the [Product Requirements Document](docs/prd.md) for full specifications.
 
 ## 🚀 Quick Start
 
