@@ -4,7 +4,8 @@ Open-source video collaboration tool designed for small remote teams who value b
 
 ## 📚 Documentation
 
-See the [Product Requirements Document](docs/prd.md) for full specifications.
+- [Product Requirements Document](docs/prd.md) - Full product specifications
+- [Architecture Flows](docs/architecture-flows.md) - Sequence diagrams and system interaction flows
 
 ## 🚀 Quick Start
 
